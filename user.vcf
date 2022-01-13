@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Ashad;;;
-FN: Ashad Kazmi 
-ORG:Sulekha.com;
-TITLE:Deputy Manager\n
-EMAIL;type=INTERNET;type=WORK;type=pref:send2ashad@gmail.com
-TEL;type=WORK;type=VOICE:8667052692
-item1.ADR;type=WORK;type=pref:;;172, AJC Bose Road, Kolkata-700014
+FN: Kunal Kumar 
+ORG:Directorate of Commercial Taxes;
+TITLE:Assistant Commissioner of Revenue\n Kharagpur Zone
+EMAIL;type=INTERNET;type=WORK;type=pref:kumar.kunal52@gmail.com
+TEL;type=WORK;type=VOICE:8444851313
+item1.ADR;type=WORK;type=pref:;;Mumbai-Kolkata Highway, Rupnarayanpur, West Bengal-721305
 item1.X-ABADR:sg
-item2.URL;type=pref:sulekha.com
+item2.URL;type=pref:wbcomtax.gov.in
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
